@@ -1,2 +1,2 @@
 # React_Portfolio
-Portfolio on React
+Create portfolio using react and deploy to github pages
